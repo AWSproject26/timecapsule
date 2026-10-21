@@ -53,3 +53,4 @@ $currentUser = $auth->knownUser();
   </footer>
 </body>
 </html>
+<?php broken(
