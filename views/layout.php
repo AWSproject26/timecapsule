@@ -48,6 +48,7 @@ $currentUser = $auth->knownUser();
       Served by <code><?= $view->e($hostname) ?></code>
       · DB: <code><?= $view->e($dbHost) ?></code>
       · Files: <code><?= $view->e($storage) ?></code>
+      <span>Developed by Rogalin Pavel</span>
     </div>
   </footer>
 </body>
